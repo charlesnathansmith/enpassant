@@ -1,0 +1,18 @@
+{
+	"name": "Google En Passant",
+	"version": "1.0.0",
+	"manifest_version": 3,
+	"author": "r/anarchychess",
+	"icons": {
+		"16": "ep16.png",
+		"32": "ep32.png",
+		"48": "ep48.png",
+		"128": "ep128.png"
+	},
+	"action": {
+		"default_title": "Google En Passant"
+	},
+	"background": {
+		"service_worker": "enpassant.js"
+	}
+}
