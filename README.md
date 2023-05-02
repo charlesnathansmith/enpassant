@@ -1,2 +1,2 @@
 # enpassant
-A Google Chrome plugin that Google's en passant
+A Google Chrome extension that Google's en passant
